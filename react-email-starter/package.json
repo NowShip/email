@@ -1,0 +1,19 @@
+{
+  "name": "react-email-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "email dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "react-email": "3.0.1"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.25",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
